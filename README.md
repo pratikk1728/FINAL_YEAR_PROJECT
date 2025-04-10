@@ -51,8 +51,8 @@ python main.py --source video/input_video.mp4 --model models/yolov8_custom.pt
 
 | Weapon Detection | Person Tracking |
 |------------------|------------------|
-| ![Detection](![Screenshot 2025-03-23 173849](https://github.com/user-attachments/assets/24f455be-26f6-4765-8350-765e4653dbd1)
-) | ![Tracking](![Screenshot 2025-03-23 173951](https://github.com/user-attachments/assets/a5e1d22b-28af-4737-a191-6659a9c64239)
+| ![Detection](![Screenshot 2025-03-23 173849](https://github.com/user-attachments/assets/24f455be-26f6-4765-8350-765e4653dbd1))
+| ![Tracking](![Screenshot 2025-03-23 173951](https://github.com/user-attachments/assets/a5e1d22b-28af-4737-a191-6659a9c64239)
 ) |
 
 ## 📌 Future Improvements
